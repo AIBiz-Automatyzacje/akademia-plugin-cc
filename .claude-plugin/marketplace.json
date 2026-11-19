@@ -1,0 +1,16 @@
+{
+  "name": "akademia-automatyzacji",
+  "owner": {
+    "name": "Akademia Automatyzacji"
+  },
+  "plugins": [
+    {
+      "name": "akademia-plugin-cc",
+      "source": "./plugins/akademia-plugin-cc",
+      "description": "Od pomysłu do gotowej zmiany: skille pomysl, zaplanuj, zbuduj, domknij i agent tester."
+    }
+  ],
+  "metadata": {
+    "description": "Pluginy z kursów Akademii Automatyzacji."
+  }
+}

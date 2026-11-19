@@ -1,0 +1,8 @@
+{
+  "name": "akademia-plugin-cc",
+  "description": "Cztery skille do rozwijania własnego narzędzia z Claude Code: pomysł, plan, budowa i domknięcie zmiany. Plus agent tester.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Akademia Automatyzacji"
+  }
+}
